@@ -1,0 +1,26 @@
+[
+  {
+    "application_id": "APP101",
+    "roll_no": "STU001",
+    "scholarship_id": "SCH003",
+    "status": "Under Review",
+    "applied_date": "2026-09-01",
+    "notes": "Recommendation letters received. Awaiting faculty mentorship committee evaluation."
+  },
+  {
+    "application_id": "APP102",
+    "roll_no": "STU002",
+    "scholarship_id": "SCH001",
+    "status": "Approved",
+    "applied_date": "2026-08-15",
+    "notes": "Income and marksheet documents verified. First installment scheduled for disbursement."
+  },
+  {
+    "application_id": "APP103",
+    "roll_no": "STU002",
+    "scholarship_id": "SCH002",
+    "status": "Incomplete",
+    "applied_date": "2026-09-10",
+    "notes": "Pending renewed caste validity certificate from Revenue Officer."
+  }
+]

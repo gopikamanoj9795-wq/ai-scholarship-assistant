@@ -1,0 +1,48 @@
+[
+  {
+    "id": "SCH001",
+    "name": "National Merit-Cum-Means Scholarship",
+    "category": "All",
+    "min_cgpa": 7.5,
+    "max_family_income": 250000.0,
+    "eligible_years": [1, 2, 3, 4],
+    "amount": 50000.0,
+    "deadline": "2026-10-31",
+    "required_docs": [
+      "Income Certificate",
+      "Marksheet",
+      "Bank Passbook"
+    ]
+  },
+  {
+    "id": "SCH002",
+    "name": "State OBC Higher Education Financial Assistance",
+    "category": "OBC",
+    "min_cgpa": 7.0,
+    "max_family_income": 300000.0,
+    "eligible_years": [2, 3, 4],
+    "amount": 40000.0,
+    "deadline": "2026-11-15",
+    "required_docs": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Marksheet"
+    ]
+  },
+  {
+    "id": "SCH003",
+    "name": "Apex Tech Academic Excellence Fellowship",
+    "category": "All",
+    "min_cgpa": 8.5,
+    "max_family_income": 800000.0,
+    "eligible_years": [3, 4],
+    "amount": 75000.0,
+    "deadline": "2026-12-01",
+    "required_docs": [
+      "Marksheet",
+      "Resume",
+      "Recommendation Letter",
+      "Student ID"
+    ]
+  }
+]

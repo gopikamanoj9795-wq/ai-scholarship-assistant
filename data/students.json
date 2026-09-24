@@ -1,0 +1,26 @@
+[
+  {
+    "roll_no": "STU001",
+    "name": "Aarav Sharma",
+    "category": "General",
+    "cgpa": 8.85,
+    "family_income": 450000.0,
+    "year": 3
+  },
+  {
+    "roll_no": "STU002",
+    "name": "Priya Patel",
+    "category": "OBC",
+    "cgpa": 7.60,
+    "family_income": 180000.0,
+    "year": 2
+  },
+  {
+    "roll_no": "STU003",
+    "name": "Rahul Kumar",
+    "category": "SC",
+    "cgpa": 9.20,
+    "family_income": 220000.0,
+    "year": 1
+  }
+]

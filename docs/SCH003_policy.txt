@@ -1,0 +1,31 @@
+# OFFICIAL SCHOLARSHIP POLICY: APEX TECH ACADEMIC EXCELLENCE FELLOWSHIP (SCH003)
+
+1. PROGRAM OVERVIEW AND OBJECTIVE
+The Apex Tech Academic Excellence Fellowship (SCH003) is a prestigious merit fellowship established to recognize and nurture top-tier academic and engineering talent in undergraduate institutions. The fellowship provides an annual grant of INR 75,000 along with mentorship access to senior industry researchers.
+
+2. ELIGIBILITY CRITERIA
+Applicants must satisfy all stated benchmarks:
+- Currently enrolled as a 3rd Year or 4th Year undergraduate student in Computer Science, Information Technology, Electronics, or allied engineering and tech disciplines.
+- Open to students of all demographic and social categories.
+- Exceptional academic record with a minimum cumulative CGPA of 8.50 out of 10.0 (or equivalent top percentile standing).
+- Annual household income must not exceed INR 8,00,000 (Rupees Eight Lakhs only).
+
+3. APPLICATION TIMELINE AND SUBMISSION
+Applications must be submitted via the Apex Fellowship Management Portal by 11:59 PM on December 1, 2026. Submissions require completion of an online personal statement explaining academic goals, research interests, and project experience.
+
+4. MANDATORY SUPPORTING DOCUMENTS
+Every candidate must supply high-resolution scans of:
+- Official university marksheets and transcripts reflecting all terms through the end of the 2nd Year (for 3rd-year applicants) or 3rd Year (for 4th-year applicants).
+- Comprehensive technical Resume / Curriculum Vitae highlighting software projects, internships, publications, or hackathon achievements.
+- Exactly two Letters of Recommendation written and signed by department faculty members or project advisors.
+- Valid Institute Student Identity Card.
+
+5. RENEWAL GUIDELINES
+Fellowship renewal for the 4th Year requires:
+- Maintenance of an exemplary CGPA of at least 8.50.
+- Completion of a technical capstone or research project milestone during the 3rd Year, evaluated and approved by the Faculty Mentorship Committee.
+- Submission of an Annual Technical Progress Report by May 31.
+- No history of academic integrity infractions or disciplinary sanctions.
+
+6. APPEALS AND RECONSIDERATION POLICY
+Candidates who believe their submission was evaluated incorrectly due to administrative oversight or transcript transmission errors may submit a formal request for reconsideration to the Apex Fellowship Review Committee within 10 calendar days of status announcement. Appeals must include a cover letter detailing grounds for review and endorsement from the Head of Department. All appellate determinations are final.
